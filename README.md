@@ -18,7 +18,7 @@ maq != usuario:
 i = i +1
 
 ### output
-S= (n*(n+1))/2
+
 # Diseño
 ![Diagrama de flugo](driagrama.png "Diagrama de flujo")
 
